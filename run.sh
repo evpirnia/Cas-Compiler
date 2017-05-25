@@ -7,5 +7,3 @@ cd asm
 make &> trash.txt
 ./q2
 rm trash.txt
-cd .. 
-rm *.class *.tokens *.java
