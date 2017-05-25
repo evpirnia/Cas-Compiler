@@ -2,3 +2,4 @@
 *.tokens
 *.java
 Vagrantfile
+.vagrant/
